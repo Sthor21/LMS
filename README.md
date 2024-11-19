@@ -54,6 +54,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 
 **file structure**
-LMS|-> model -> Book.java
-  |-> service ->Library.java
-  |-> Main.java
+LMS(parent directory)|-> model -> Book.java
+                         service ->Library.java
+                         Main.java
